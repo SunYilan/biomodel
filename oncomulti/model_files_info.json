@@ -1,0 +1,49 @@
+{
+  "files_info": [
+    {
+      "file": "level0_model_0.pkl",
+      "size_bytes": 12055231,
+      "size_mb": 11.5,
+      "exists": true
+    },
+    {
+      "file": "level0_model_1.pkl",
+      "size_bytes": 11977407,
+      "size_mb": 11.42,
+      "exists": true
+    },
+    {
+      "file": "level0_model_2.pkl",
+      "size_bytes": 12082559,
+      "size_mb": 11.52,
+      "exists": true
+    },
+    {
+      "file": "level1_model_0.pkl",
+      "size_bytes": 11483455,
+      "size_mb": 10.95,
+      "exists": true
+    },
+    {
+      "file": "level1_model_1.pkl",
+      "size_bytes": 11300399,
+      "size_mb": 10.78,
+      "exists": true
+    },
+    {
+      "file": "level1_model_2.pkl",
+      "size_bytes": 11533935,
+      "size_mb": 11.0,
+      "exists": true
+    },
+    {
+      "file": "meta_learner.pth",
+      "size_bytes": 20632,
+      "size_mb": 0.02,
+      "exists": true
+    }
+  ],
+  "total_size_bytes": 70453618,
+  "total_size_mb": 67.19,
+  "all_files_exist": true
+}
